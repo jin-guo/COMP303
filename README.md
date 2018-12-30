@@ -1,4 +1,4 @@
-# [COMP303] Software Design (Winter 2019)
+# COMP303 Software Design (Winter 2019)
 
 ## Course Description
 This course provides an in-depth introduction to the discipline of software design for building realistic and high-quality software applications. It will focus on object-oriented programming techniques, and cover topics related to managing software complexity and verifying that they work as expected. It will use Java for all the code examples and assignments. However, the considerations during the design process apply in all languages for practical software development.
@@ -17,7 +17,7 @@ COMP 206 and COMP 250
 ## Reference Material
 * [Introduction to Software Design with Java](https://github.com/prmr/SoftwareDesign), by Martin Robillard, lecture note for COMP 303  
 * [The Pragmatic Programmer](https://learning.oreilly.com/library/view/the-pragmatic-programmer/020161622X/) by Andrew Hunt and David Thomas, Addison-Wesley, 2000.
-* Effective Java by Joshua Bloch, [2nd ed.]((https://www.oreilly.com/library/view/effective-java-2nd/9780137150021/)), Addison-Wesley, 2008; [3rd ed.](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) 2018. Either edition is fine.
+* [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) by Joshua Bloch, 3rd ed., Addison-Wesley, 2017. If you aleady have the second edition, that is fine too.
  
 While I recommend you buy physical books, the eBooks can be accessed following the instruction [here](http://mcgill.libanswers.com/ebooks/faq/200367). 
 
