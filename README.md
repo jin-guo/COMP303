@@ -50,7 +50,7 @@ After completing this course successful students should be able to:
 COMP 206 and COMP 250. Please also perform the [self assessment](https://github.com/prmr/COMP303/blob/master/Assessment.md) within the first week of the class to determine if you are ready to take this course.
 
 
-## Assessment and Evaluation (Tentative):
+## Assessment and Evaluation (Work-in-progress):
 *Subject to minor adjustments*
 
 
@@ -71,35 +71,35 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 ## Schedule (Tentative)
 *Subject to adjustments*
 
-| Lecture | Date | Content | Reading | Exercise | Assignments | Lab Tests |
-| :---: |:---:| :---: | :---: | :---: | :---: | :---: |
-|1	|  5 Jan  | Introduction | SD: Chapter 1| | | |
-|2	|  10 Jan | Encapsulation - 1 | SD: Chapter 2 | [Exercise 0](m0.md) <br> [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | | |
-|3	|  12 Jan | Encapsulation - 2 | EJ: Item 15-17  | [Exercise 6-9 in SD: Chapter 2 <br> (omit the exercise related to Design by Contract and Assertion which will be introduced later in the course)](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | A1 (due Jan 24) | |
-|4	|  17 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | [Exercise 1-2 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | | |
-|5	|  19 Jan | Types and Polymorphism - 2 | EJ: Item 14 | [Exercise 3-6 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | | |
-|6	|  24 Jan | Types and Polymorphism - 3 | | [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md)| | |
-|7	|  26 Jan | Object State - 1 | SD: Chapter 4, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | A2 (due Feb 2) | | |
-|8	|  31 Jan | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | | |
-|9	|  2 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25| | | Lab 1 (Jan 31 - Feb 11)|
-|10  |  7 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | | | |
-|11	|  9 Feb | Unit Testing - 1 | SD: Chapter 5  | | |
-|12	|  14 Feb | Unit Testing - 2| SD: Chapter 5 | [Exercise 1-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) | | |
-|13	|  16 Feb | Content Review (by TAs)| | | A3 (due Mar 2) | |
-|14	|  21 Feb | Composition - 1 | SD: Chapter 6 | | | |
-|15	|  23 Feb | Composition - 2 | SD: Chapter 6 | [Exercise 1-5 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md)| | |
-|**	|  28 Feb | READING WEEK | | | | |
-|**	|  2 Mar | READING WEEK | | | | |
-|16	|  7 Mar | Lecture cancelled | | | | Lab2 (Mar 7 - 18)|
-|17	|  9 Mar | Lecture cancelled | | | | |
-|18	|  14 Mar | Composition - 3 | | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | | |
-|19	|  16 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | |
-|20 |  21 Mar | Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | |
-|21 |  23 Mar | Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | |
-|22 |  28 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | |
-|23 |  30 Mar | Content Review (by TAs) | | |  | Lab 3 (Mar 30 - Apr 12) |
-|24 |  4 Apr | Concurrency - 1 | [Java Concurrency in Practice Chapter 1,2,3](https://learning.oreilly.com/library/view/java-concurrency-in/0321349601/) | | | |
-|25 |  6 Apr | Concurrency - 2 | | | | | |
-|26 |  11 Apr | Ethics and Wrap Up | | | | | |
+| Lecture | Date | Content | Reading | Exercise | Lab Tests |
+| :---: |:---:| :---: | :---: | :---: | :---: |
+|1	|  4 Jan  | Introduction | SD: Chapter 1| | |
+|2	|  10 Jan | Encapsulation - 1 | SD: Chapter 2 | [Exercise 0](m0.md) <br> [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | |
+|3	|  12 Jan | Encapsulation - 2 | EJ: Item 15-17  | [Exercise 6-9 in SD: Chapter 2 <br> (omit the exercise related to Design by Contract and Assertion which will be introduced later in the course)](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | |
+|4	|  17 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | [Exercise 1-2 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
+|5	|  19 Jan | Types and Polymorphism - 2 | EJ: Item 14 | [Exercise 3-6 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
+|6	|  24 Jan | Types and Polymorphism - 3 | | [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
+|7	|  26 Jan | Object State - 1 | SD: Chapter 4, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | | |
+|8	|  31 Jan | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | |
+|9	|  2 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25|  | |
+|10  |  7 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | | |
+|11	|  9 Feb | Unit Testing - 1 | SD: Chapter 5  | |
+|12	|  14 Feb | Unit Testing - 2| SD: Chapter 5 | [Exercise 1-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) | |
+|13	|  16 Feb | Composition - 1 | SD: Chapter 6 | | |
+|14	|  21 Feb | Composition - 2 | SD: Chapter 6 |[Exercise 1-5 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | |
+|15	|  23 Feb | Composition - 3 | SD: Chapter 6 | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | | |
+|**	|  28 Feb | READING WEEK | | | |
+|**	|  2 Mar | READING WEEK | | | |
+|16	|  7 Mar | Content Review (by TAs) | | | |
+|17	|  9 Mar | Midterm | | | 
+|18	|  14 Mar |  Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | 
+|19	|  16 Mar |  Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | |
+|20 |  21 Mar | Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | |
+|21 |  23 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | |
+|22 |  28 Mar | Inversion of Control - 3 | | |
+|23 |  30 Mar | Content Review (by TAs) | | | |
+|24 |  4 Apr | Concurrency - 1 | [Java Concurrency in Practice Chapter 1,2,3](https://learning.oreilly.com/library/view/java-concurrency-in/0321349601/) | | |
+|25 |  6 Apr | Concurrency - 2 | | |  | |
+|26 |  11 Apr | Ethics and Wrap Up |  | | | |
 
 
