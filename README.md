@@ -5,10 +5,11 @@
 |   |  |
 | :---: | ------------- |
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)|
-| Lecture Date and Time    | MW 1:05 pm - 2:25 pm | 
+| Lecture Date and Time    | MW 1:05 pm - 2:25 pm (The lectures are **not** recorded. Please attend them in person.) | 
 | Location | STBIO S1/4 |
 | Q&A and Discussion Forum | Ed discussion (access through myCourses) |
-
+ 
+ 
 
 ## TA Office Hours
 | Time | TA | 
