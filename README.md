@@ -1,4 +1,4 @@
-# COMP303 Software Design (Winter 2019)
+# COMP303 Software Design (Winter 2023)
 
 ## Course Description
 This course provides an in-depth introduction to the discipline of software design for building realistic and high-quality software applications. It will focus on object-oriented programming techniques, and cover topics related to managing software complexity and verifying that they work as expected. It will use Java for all the code examples and assignments. However, the considerations during the design process apply in all languages for practical software development.
@@ -24,22 +24,14 @@ While I recommend you buy physical books, the eBooks can be accessed following t
 ## Teaching Assistant
 |Name|Email Address|
 |:---:|:---:|
-| Mathieu Nassif      | mathieu.nassif@mail.mcgill.ca      |
-| Cheryl Wang         | wenting.wang@mail.mcgill.ca        |
-| Deeksha Arya        | deeksha.arya@mail.mcgill.ca        |
-| Alexander Nicholson | alexander.nicholson@mail.mcgill.ca |
-| Shi Yan Du          | shi.du@mail.mcgill.ca              |
-| Kian Ahrabian       | kian.ahrabian@mail.mcgill.ca       |
 
-## Office Hour
-TBD
 
 ## Assessment and Evaluation
 |Method|When|Weight|
 |:---:|:---:|:---:|
-|Participation|In class + online|10%|
-|Lab tests|4 sessions|20%|
-|Midterm|Feb 28th, 6pm - 8pm|30%|
+|Participation and Quiz|In class + online|10%|
+|Lab tests|4 sessions|25%|
+|Midterm|TBD|25%|
 |Final|TBD|40%|
 
 * It’s important to attend the lectures in order to gain the best learning experience – it cannot be replaced by watching the videos afterward. 
