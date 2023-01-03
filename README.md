@@ -31,7 +31,7 @@ After completing this course successful students should be able to:
 
 ## Reference Material
 - **Required Textbook**: 
-  - [Introduction to Software Design with Java (referred to as SD in the schedule)](https://link.springer.com/book/10.1007/978-3-030-24094-3). The electronic version of this book is **free** for McGill users with library access. For those who optionally want a print version, the [Paragraph Bookstore](http://paragraphbooks.com/) will stock a limited number of copies;
+  - [Introduction to Software Design with Java (referred to as SD in the schedule)](https://link.springer.com/book/10.1007/978-3-030-97899-0). The electronic version of this book is **free** for McGill users with library access. For those who optionally want a print version, the [Paragraph Bookstore](http://paragraphbooks.com/) will stock a limited number of copies;
   - [Companion Website](https://github.com/prmr/DesignBook) for source code, exercises, and solutions.
   - [Casdoc Tool (To update)](https://swevo.cs.mcgill.ca/). Chapter and solution code from the textbook companion website with extra in-line annotations of examples and explanations.
   - 
