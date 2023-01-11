@@ -75,8 +75,8 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 | Lecture | Date | Content | Reading | Exercise | Lab Tests |
 | :---: |:---:| :---: | :---: | :---: | :---: |
 |1	|  4 Jan  | Introduction | SD: Chapter 1| | |
-|2	|  9 Jan | Encapsulation - 1 | SD: Chapter 2, [Tutorial on Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html) | [Exercise 0](m0.md) <br> [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | |
-|3	|  11 Jan | Encapsulation - 2 | EJ: Item 15-17  | [Exercise 6-9 in SD: Chapter 2 <br> (omit the exercise related to Design by Contract and Assertion which will be introduced later in the course)](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | |
+|2	|  9 Jan | Encapsulation - 1 | SD: Chapter 2 | [Exercise 0](m0.md) <br> [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | |
+|3	|  11 Jan | Encapsulation - 2 | EJ: Item 15-17, [Tutorial on Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)  | [Exercise 6-9 in SD: Chapter 2 <br> (omit the exercise related to Design by Contract and Assertion which will be introduced later in the course)](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | |
 |4	|  16 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | [Exercise 1-2 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
 |5	|  18 Jan | Types and Polymorphism - 2 | EJ: Item 14 | [Exercise 3-6 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
 |6	|  23 Jan | Types and Polymorphism - 3 | | [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
