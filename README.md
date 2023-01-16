@@ -8,12 +8,22 @@
 | Lecture Date and Time    | MW 1:05 pm - 2:25 pm (The lectures are **not** recorded. Please attend them in person.) | 
 | Location | STBIO S1/4 |
 | Q&A and Discussion Forum | Ed discussion (access through myCourses) |
+| Instructor Office Hour | Monday 9-10 am (MC328)| 
  
  
 
-## TA Office Hours
+## TA Office Hours  (TR3120)
 | Time | TA | 
 | :---: | :---: |
+| Monday 3-4pm |	Peiyong Liu |
+| Monday 4-5pm	| Josh Weinstein |
+| Tuesday 4-5pm	| Samer Abdulkarim |
+| Tuesday 5-6pm	| Viet Linh Nguyen |
+| Thursday 1-2pm |	Shuo Wen |
+| Thursday 2-3pm	| Yijia Jing |
+| Thursday 3-4pm	| Deeksha Arya |
+| Friday 8-9am	| Avinash Bhat |
+| Friday 9-10am	| Charlotte Sacré |
 
 
 ## Description
