@@ -102,7 +102,7 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |**	|  27 Feb | READING WEEK | | | |
 |**	|  1 Mar | READING WEEK | | | |
 |16	|  7 Mar | Content Review (by TAs) | | | |
-|17	|  9 Mar | Midterm (TBD) | | | 
+|17	|  9 Mar (Leacock 132, 6-8pm) | Midterm | | | 
 |18	|  13 Mar |  Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | 
 |19	|  15 Mar |  Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | |
 |20 |  20 Mar | Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | |
