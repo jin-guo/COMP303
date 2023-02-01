@@ -82,35 +82,46 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 ## Schedule (Tentative)
 *Subject to adjustments*
 
-| Lecture | Date | Content | Reading | Exercise | Lab Tests |
-| :---: |:---:| :---: | :---: | :---: | :---: |
-|1	|  4 Jan  | Introduction | SD: Chapter 1| | |
-|2	|  9 Jan | Encapsulation - 1 | SD: Chapter 2 | [Exercise 0](m0.md) <br> [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | |
-|3	|  11 Jan | Encapsulation - 2 | EJ: Item 15-17, [Tutorial on Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)  | [Exercise 6-9 in SD: Chapter 2 <br> (omit the exercise related to Design by Contract and Assertion which will be introduced later in the course)](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | |
-|4	|  16 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | [Exercise 1-2 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
-|5	|  18 Jan | Types and Polymorphism - 2 | EJ: Item 14 | [Exercise 3-6 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
-|6	|  23 Jan | Types and Polymorphism - 3 | | [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
-|7	|  25 Jan | Object State - 1 | SD: Chapter 4, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | | |
-|8	|  30 Jan | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | |
-|9	|  1 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25|  | |
-|10  |  6 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | | |
-|11	|  8 Feb | Unit Testing - 1 | SD: Chapter 5  | |
-|12	|  13 Feb | Unit Testing - 2| SD: Chapter 5 | [Exercise 1-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) | |
-|13	|  15 Feb | Composition - 1 | SD: Chapter 6 | | |
-|14	|  20 Feb | Composition - 2 | SD: Chapter 6 |[Exercise 1-5 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | |
-|15	|  22 Feb | Composition - 3 | SD: Chapter 6 | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | | |
-|**	|  27 Feb | READING WEEK | | | |
-|**	|  1 Mar | READING WEEK | | | |
-|16	|  7 Mar | Content Review (by TAs) | | | |
-|17	|  9 Mar (Leacock 132, 6-8pm) | Midterm | | | 
+| Lecture | Date | Content | Reading | Exercise | 
+| :---: |:---:| :---: | :---: | :---: | 
+|1	|  4 Jan  | Introduction | SD: Chapter 1| | 
+|2	|  9 Jan | Encapsulation - 1 | SD: Chapter 2 | [Exercise 0](m0.md) <br> [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | 
+|3	|  11 Jan | Encapsulation - 2 | EJ: Item 15-17, [Tutorial on Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)  | [Exercise 6-9 in SD: Chapter 2 <br> (omit the exercise related to Design by Contract and Assertion which will be introduced later in the course)](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | 
+|4	|  16 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | [Exercise 1-2 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | 
+|5	|  18 Jan | Types and Polymorphism - 2 | EJ: Item 14 | [Exercise 3-6 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | 
+|6	|  23 Jan | Types and Polymorphism - 3 | | [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | 
+|7	|  25 Jan | Object State - 1 | SD: Chapter 4, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | | 
+|8	|  30 Jan | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | 
+|9	|  1 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25|  | 
+|10  |  6 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | | 
+|11	|  8 Feb | Unit Testing - 1 | SD: Chapter 5  | 
+|12	|  13 Feb | Unit Testing - 2| SD: Chapter 5 | [Exercise 1-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) | 
+|13	|  15 Feb | Composition - 1 | SD: Chapter 6 | | 
+|14	|  20 Feb | Composition - 2 | SD: Chapter 6 |[Exercise 1-5 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | 
+|15	|  22 Feb | Composition - 3 | SD: Chapter 6 | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | | 
+|**	|  27 Feb | READING WEEK | | | 
+|**	|  1 Mar | READING WEEK | | | 
+|16	|  7 Mar | Content Review (by TAs) | | | 
+|17	|  9 Mar (Leacock 132, 6-8pm) | Midterm | | 
 |18	|  13 Mar |  Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | 
-|19	|  15 Mar |  Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | |
-|20 |  20 Mar | Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | |
-|21 |  22 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | |
-|22 |  27 Mar | Inversion of Control - 3 | | |
-|23 |  29 Mar | Content Review (by TAs) | | | |
-|24 |  3 Apr | TBD | | | |
-|25 |  5 Apr | TBD | | |  | |
-|26 |  12 Apr | Ethics and Wrap Up |  | | | |
+|19	|  15 Mar |  Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | 
+|20 |  20 Mar | Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | 
+|21 |  22 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
+|22 |  27 Mar | Inversion of Control - 3 | | 
+|23 |  29 Mar | Content Review (by TAs) | | | 
+|24 |  3 Apr | TBD | | | 
+|25 |  5 Apr | TBD | | |  | 
+|26 |  12 Apr | Ethics and Wrap Up |  | | | 
+
+
+## Lab Test 
+
+| Test | Start Date | End Date | Scope | Note | 
+| :---: |:---:| :---: | :---: | :---: | 
+|Lab Test 1|23 Jan|3 Feb|Encapsulation||
+|Lab Test 2|13 Feb|24 Feb|Types and Polymorphism, Object State||
+|Lab Test 3|16 Mar|29 Mar|Design for Robustness, Unit Testing, Composition|
+|Lab Test 4|30 Mar|13 Apr|Inheritance, Inversion of Control|No lab test on Apr 7 and 10|
+
 
 
