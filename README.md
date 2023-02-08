@@ -69,7 +69,7 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 | ------------------------------------------ | ------ |
 | Class Participation and Quiz               | 10%    |
 | Lab tests (4, with equal weight)           | 20%    |
-| Midterm exam                               | 25%    |
+| Midterm exam (9th Mar, Leacock 132, 6-8pm) | 25%    |
 | Final exam                                 | 45%    |
 
 
