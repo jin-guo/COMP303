@@ -61,7 +61,7 @@ After completing this course successful students should be able to:
 COMP 206 and COMP 250. Please also perform the [self assessment](https://github.com/prmr/COMP303/blob/master/Assessment.md) within the first week of the class to determine if you are ready to take this course.
 
 
-## Assessment and Evaluation (Work-in-progress):
+## Assessment and Evaluation:
 *Subject to minor adjustments*
 
 
