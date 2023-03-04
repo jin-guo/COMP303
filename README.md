@@ -104,7 +104,7 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |15	|  22 Feb | Composition - 3 | SD: Chapter 6 | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | | 
 |**	|  27 Feb | READING WEEK | | | 
 |**	|  1 Mar | READING WEEK | | | 
-|16	|  7 Mar | Content Review (by TAs) | | | 
+|16	|  6 Mar | Content Review (by TAs) | | | 
 |17	|  9 Mar (Leacock 132, 6-8pm) | Midterm | | 
 |18	|  13 Mar |  Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | 
 |19	|  15 Mar |  Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | 
