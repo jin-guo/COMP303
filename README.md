@@ -110,11 +110,11 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |19	|  15 Mar |  Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | 
 |20 |  20 Mar | Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | 
 |21 |  22 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
-|22 |  27 Mar | Inversion of Control - 3 | | 
-|23 |  29 Mar | Content Review (by TAs) | | | 
-|24 |  3 Apr | TBD | | | 
-|25 |  5 Apr | TBD | | |  | 
-|26 |  12 Apr | Ethics and Wrap Up |  | | | 
+|22 |  27 Mar | Concurrency - 1 | | 
+|23 |  29 Mar | Concurrency - 2 | | | 
+|24 |  3 Apr | Usability | | | 
+|25 |  5 Apr | Ethics | | |  | 
+|26 |  12 Apr | Content Review (by TAs) |  | | | 
 
 
 ## Lab Test 
