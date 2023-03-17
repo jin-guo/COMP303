@@ -110,9 +110,9 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |19	|  15 Mar |  Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | 
 |20 |  20 Mar | Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | 
 |21 |  22 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
-|22 |  27 Mar | Concurrency - 1 | | 
+|22 |  27 Mar | Concurrency - 1 |[Java Concurrency in Practice Chapter 1,2,3](https://learning.oreilly.com/library/view/java-concurrency-in/0321349601/)| | 
 |23 |  29 Mar | Concurrency - 2 | | | 
-|24 |  3 Apr | Usability | | | 
+|24 |  3 Apr | Usability | [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)<br>[Improving API Usability](http://www.cs.cmu.edu/~NatProg/papers/p62-myers-CACM-API_Usability.pdf) | | 
 |25 |  5 Apr | Ethics | | |  | 
 |26 |  12 Apr | Content Review (by TAs) |  | | | 
 
