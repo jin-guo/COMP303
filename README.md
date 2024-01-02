@@ -1,29 +1,21 @@
-# COMP303 Software Design (Winter 2023)
+# COMP303 Software Design (Winter 2024)
 
 
 ## General Information
 |   |  |
 | :---: | ------------- |
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)|
-| Lecture Date and Time    | MW 1:05 pm - 2:25 pm (The lectures are **not** recorded consider the [negative impact of lecture capture availability](https://link.springer.com/article/10.1007/s10734-018-0275-9). Please attend them in person.) | 
-| Location | STBIO S1/4 |
+| Lecture Date and Time    | TR 2:35 pm - 3:55 pm | 
+| Location | SADB M-1 |
 | Q&A and Discussion Forum | Ed discussion (access through myCourses) |
-| Instructor Office Hour | Monday 9-10 am (MC328)| 
+| Instructor Office Hour | TBD (MC328)| 
  
  
 
-## TA Office Hours  (TR3120)
+## TA Office Hours  (TBD)
 | Time | TA | 
 | :---: | :---: |
-| Monday 3-4pm |	Peiyong Liu |
-| Monday 4-5pm	| Josh Weinstein |
-| Tuesday 4-5pm	| Samer Abdulkarim |
-| Tuesday 5-6pm	| Viet Linh Nguyen |
-| Thursday 1-2pm |	Shuo Wen |
-| Thursday 2-3pm	| Yijia Jing |
-| Thursday 3-4pm	| Deeksha Arya |
-| Friday 8-9am	| Avinash Bhat |
-| Friday 9-10am	| Charlotte Sacré |
+
 
 
 ## Description
@@ -41,7 +33,7 @@ After completing this course successful students should be able to:
 
 ## Reference Material
 - **Required Textbook**: 
-  - [Introduction to Software Design with Java (referred to as SD in the schedule)](https://link.springer.com/book/10.1007/978-3-030-97899-0). The electronic version of this book is **free** for McGill users with library access. For those who optionally want a print version, the [Paragraph Bookstore](http://paragraphbooks.com/) will stock a limited number of copies;
+  - [Introduction to Software Design with Java, 2nd edition (referred to as SD in the schedule)](https://link.springer.com/book/10.1007/978-3-030-97899-0). The electronic version of this book is **free** for McGill users with library access. For those who optionally want a print version, the [Paragraph Bookstore](http://paragraphbooks.com/) will stock a limited number of copies;
   - [Companion Website](https://github.com/prmr/DesignBook) for source code, exercises, and solutions.
   - [Casdoc Tool](https://cs.mcgill.ca/~martin/casdoc/). Chapter and solution code from the textbook companion website with extra in-line annotations of examples and explanations.
   
@@ -67,10 +59,10 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 | Evaluation Methods                         | Weight |
 | ------------------------------------------ | ------ |
-| Class Participation and Quiz               | 10%    |
+| Class Participation and Quiz               | 5%    |
 | Lab tests (3 best performing labs, with equal weight)           | 20%    |
 | Midterm exam (9th Mar, Leacock 132, 6-8pm) | 25%    |
-| Final exam                                 | 45%    |
+| Final exam                                 | 50%    |
 
 
 - Accommodation 1 (exams): If the grade of the final exam exceeds that of the midterm, the grade of the final exam will replace the grade of the midterm. This accommodation covers the case where students are unable to write the midterm.
@@ -92,29 +84,30 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |3	|  11 Jan | Encapsulation - 2 | EJ: Item 15-17, [Tutorial on Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)  | [Exercise 6-9 in SD: Chapter 2 <br> (omit the exercise related to Design by Contract and Assertion which will be introduced later in the course)](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | 
 |4	|  16 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | [Exercise 1-2 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | 
 |5	|  18 Jan | Types and Polymorphism - 2 | EJ: Item 14 | [Exercise 3-6 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | 
-|6	|  23 Jan | Types and Polymorphism - 3 | | [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | 
-|7	|  25 Jan | Object State - 1 | SD: Chapter 4, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | | 
-|8	|  30 Jan | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | 
-|9	|  1 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25|  | 
-|10  |  6 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | | 
-|11	|  8 Feb | Unit Testing - 1 | SD: Chapter 5  | 
-|12	|  13 Feb | Unit Testing - 2| SD: Chapter 5 | [Exercise 1-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) | 
-|13	|  15 Feb | Composition - 1 | SD: Chapter 6 | | 
-|14	|  20 Feb | Composition - 2 | SD: Chapter 6 |[Exercise 1-5 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | 
-|15	|  22 Feb | Composition - 3 | SD: Chapter 6 | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | | 
-|**	|  27 Feb | READING WEEK | | | 
-|**	|  1 Mar | READING WEEK | | | 
-|16	|  6 Mar | Content Review (by TAs) | | | 
-|17	|  9 Mar (Leacock 132, 6-8pm) | Midterm | | 
-|18	|  13 Mar |  Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | 
-|19	|  15 Mar |  Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | 
-|20 |  20 Mar | Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | 
-|21 |  22 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-11 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
-|22 |  27 Mar | Inversion of Control - 3 | SD: Chapter 8 | [Exercise 12-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
-|23 |  29 Mar | Concurrency - 1 |[Java Concurrency in Practice Chapter 1,2,3](https://learning.oreilly.com/library/view/java-concurrency-in/0321349601/)| | 
-|24 |  3 Apr | Concurrency - 2 | | | 
-|25 |  5 Apr | Ethics | | |  | 
-|26 |  12 Apr | Content Review (by TAs) |  | | | 
+|6	|  23 Jan | No Class | | | 
+|6	|  25 Jan | Types and Polymorphism - 3 | | [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | 
+|7	|  30 Jan | Object State - 1 | SD: Chapter 4, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | | 
+|8	|  1 Feb | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | 
+|9	|  6 Feb  | Design for Robustness - 1 | PP: Topic 23, 24, 25|  | 
+|10  | 8 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | | 
+|11	| 13 Feb | Unit Testing - 1 | SD: Chapter 5  | 
+|12	|  15 Feb | Unit Testing - 2| SD: Chapter 5 | [Exercise 1-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) | 
+|13	|  20 Feb | Content Review | | | 
+|13	|  22 Feb | Composition - 1 | SD: Chapter 6 | | 
+|14	|  27 Feb | Composition - 2 | SD: Chapter 6 |[Exercise 1-5 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | 
+|15	|  29 Feb | Composition - 3 | SD: Chapter 6 | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | | 
+|**	|  5 Mar | READING WEEK | | | 
+|**	|  7 Mar | READING WEEK | | | 
+|16	|  12 Mar | TBD | Midterm  | | 
+|17	|  14 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) |  
+|18	|  19 Mar | Content Review | | |  
+|19	|  21 Mar |  Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | 
+|19	|  26 Mar |  Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | 
+|20 |  28 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-11 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
+|21 |  2 Apr | Inversion of Control - 3 | SD: Chapter 8 | [Exercise 12-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
+|22 |  4 Apr | Concurrency - 1 |[Java Concurrency in Practice Chapter 1,2,3](https://learning.oreilly.com/library/view/java-concurrency-in/0321349601/)| |
+|23 |  9 Apr |  Concurrency - 2 | | | 
+
 
 
 ## Lab Test 
