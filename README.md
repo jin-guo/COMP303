@@ -110,14 +110,10 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 
 
-## Lab Test 
+## Lab Test (TBD)
 
 | Test | Start Date | End Date | Scope | Note | 
 | :---: |:---:| :---: | :---: | :---: | 
-|Lab Test 1|23 Jan|3 Feb|Encapsulation||
-|Lab Test 2|13 Feb|24 Feb|Types and Polymorphism, Object State||
-|Lab Test 3|16 Mar|29 Mar|Design for Robustness, Unit Testing, Composition|
-|Lab Test 4|30 Mar|13 Apr|Inheritance, Inversion of Control|No lab test on Apr 7 and 10|
 
 
 
