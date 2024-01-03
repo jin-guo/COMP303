@@ -105,8 +105,8 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |22	|  26 Mar |  Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | 
 |23 |  28 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-11 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
 |24 |  2 Apr | Inversion of Control - 3 | SD: Chapter 8 | [Exercise 12-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
-|25 |  4 Apr | Concurrency - 1 |[Java Concurrency in Practice Chapter 1,2,3](https://learning.oreilly.com/library/view/java-concurrency-in/0321349601/)| |
-|26 |  9 Apr |  Concurrency - 2 | | | 
+|25 |  4 Apr | TBD| |
+|26 |  9 Apr |  TBD | | | 
 
 
 
