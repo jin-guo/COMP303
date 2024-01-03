@@ -59,14 +59,14 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 | Evaluation Methods                         | Weight |
 | ------------------------------------------ | ------ |
-| Class Participation and Quiz               | 5%    |
-| Lab tests (3 best performing labs, with equal weight)           | 20%    |
-| Midterm exam (9th Mar, Leacock 132, 6-8pm) | 25%    |
-| Final exam                                 | 50%    |
+| Class Participation               | 5%    |
+| Lab Tests         | 20%    |
+| Midterm Exam | 25%    |
+| Final Exam                                 | 50%    |
 
 
 - Accommodation 1 (exams): If the grade of the final exam exceeds that of the midterm, the grade of the final exam will replace the grade of the midterm. This accommodation covers the case where students are unable to write the midterm.
-- Accommodation 2 (labs and quiz): The grade of the lab tests will be the average of the grades of the best three lab tests. This accommodation covers the case where students are unable to complete a lab test. Similarly, the grade of the quiz will be the average of all the quizzes except the least performing or missing one quiz.
+- Accommodation 2 (labs and quiz): The grade of the lab tests will be the average of the grades of the best three lab tests. This accommodation covers the case where students are unable to complete a lab test.
 
 - Our TA will try their best to support your learning. But considering this is a big class – many of you will have similar questions or concerns and many of you have will answers to other people’s questions, we encourage you to discuss your questions about the lectures and exercises online;
 - Every module of the lecture will come with [exercises provided by the textbook](https://github.com/prmr/DesignBook). Those are for your practice and will not be graded. Instead, your practical skills will be evaluated through a series of design assignments and lab tests throughout the semester. 
