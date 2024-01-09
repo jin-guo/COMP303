@@ -116,6 +116,10 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 | Test | Start Date | End Date | Scope | Note | 
 | :---: |:---:| :---: | :---: | :---: | 
-
+|Lab Test Mock Up| 15 Jan| 19 Jan | Warm Up||
+|Lab Test 1|22 Jan|2 Feb|Encapsulation||
+|Lab Test 2|12 Feb|23 Feb|Types and Polymorphism, Object State||
+|Lab Test 3|13 Mar|26 Mar|Design for Robustness, Unit Testing, Composition|
+|Lab Test 4|27 Mar|11 Apr|Inheritance, Inversion of Control|No lab test on Mar 29 and Apr 1|
 
 
