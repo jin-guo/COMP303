@@ -8,14 +8,16 @@
 | Lecture Date and Time    | TR 2:35 pm - 3:55 pm | 
 | Location | SADB M-1 |
 | Q&A and Discussion Forum | Ed discussion (access through myCourses) |
-| Instructor Office Hour | TBD (MC328)| 
+| Instructor Office Hour | Thursdays 9-10am (MC328)| 
  
  
 
-## TA Office Hours  (TBD)
-| Time | TA | 
+## TA Office Hours  (TR4130)
+| Day of the Week | Time | 
 | :---: | :---: |
-
+| Monday | 1-2 pm|
+| Wednesday | 3-4 pm|
+| Friday | 4-5 pm|
 
 
 ## Description
