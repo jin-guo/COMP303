@@ -102,13 +102,13 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |**	|  7 Mar | READING WEEK | | | 
 |18	|  11 Mar (McConnell 204 and Adams Aud, 6-8:15pm) | Midterm  | | 
 |19	|  14 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) |  
-|20	|  19 Mar | Content Review | | |  
-|21	|  21 Mar |  Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | | 
-|22	|  26 Mar |  Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | 
-|23 |  28 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-11 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
-|24 |  2 Apr | Inversion of Control - 3 | SD: Chapter 8 | [Exercise 12-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
-|25 |  4 Apr | Concurrency - 1 |[Java Concurrency in Practice Chapter 1,2,3](https://learning.oreilly.com/library/view/java-concurrency-in/0321349601/)| | 
-|26 |  9 Apr | Concurrency - 2 and Wrap Up | |
+|20	|  19 Mar | Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | |   
+|21	|  21 Mar | Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | 
+|22	|  26 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-11 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
+|23 |  28 Mar | Inversion of Control - 3 | SD: Chapter 8 | [Exercise 12-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
+|24 |  2 Apr | Concurrency - 1 |[Java Concurrency in Practice Chapter 1,2,3](https://learning.oreilly.com/library/view/java-concurrency-in/0321349601/)| | 
+|25 |  4 Apr | Concurrency - 2 and Wrap Up | |
+|26 |  9 Apr | Content Review
 
 
 
