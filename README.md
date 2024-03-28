@@ -69,6 +69,7 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 - Accommodation 1 (exams): If the grade of the final exam exceeds that of the midterm, the grade of the final exam will replace the grade of the midterm. This accommodation covers the case where students are unable to write the midterm.
 - Accommodation 2 (labs): The grade of the lab tests will be the average of the grades of the best lab tests (with the one least performing lab test dropped). This accommodation covers the case where students are unable to complete a lab test.
+- Accommodation 3 (participation): Similar to the lab, one missing participation input will be dropped when calculating the participation grade. This accommodation covers the case where students are unable to attend the class.
 
 - Our TA will try their best to support your learning. But considering this is a big class – many of you will have similar questions or concerns and many of you have will answers to other people’s questions, we encourage you to discuss your questions about the lectures and exercises online;
 - Every module of the lecture will come with [exercises provided by the textbook](https://github.com/prmr/DesignBook). Those are for your practice and will not be graded. Instead, your practical skills will be evaluated through a series of design assignments and lab tests throughout the semester. 
