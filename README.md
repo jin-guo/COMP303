@@ -34,7 +34,7 @@ After completing this course successful students should be able to:
 - **Required Textbook**: 
   - [Introduction to Software Design with Java, Third edition (referred to as SD in the schedule)](https://link.springer.com/book/10.1007/978-3-032-11821-9). The electronic version of this book is **free** for McGill users with library access. For those who optionally want a print version, the [Paragraph Bookstore](http://paragraphbooks.com/) will stock a limited number of copies;
   - [Companion Website](https://github.com/prmr/DesignBook) for source code, exercises, and solutions.
-  - [Casdoc Tool](https://cs.mcgill.ca/~martin/casdoc/). Chapter and solution code from the textbook companion website with extra in-line annotations of examples and explanations.
+  - [Addtional Examples](https://codesample.info/)). Sample code from the textbook companion website with extra in-line annotations of examples, explanations, and best practices.
   
 - **Other Recommended References:** 
   - [The Pragmatic Programmer (referred to as PP)](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/), by David Thomas, Andrew Hunt, Addison-Wesley Professional;
