@@ -1,23 +1,20 @@
-# COMP303 Software Design (Winter 2024)
+# COMP303 Software Design (Winter 2026)
 
 
 ## General Information
 |   |  |
 | :---: | ------------- |
-| Instructor    | [Jin Guo](http://jguo-web.com/index.html)|
-| Lecture Date and Time    | TR 2:35 pm - 3:55 pm | 
+| Instructor    | [Jin Guo](https://cs.mcgill.ca/~jguo/)|
+| Lecture Date and Time    | TR 11:35 pm - 12:55 pm |
 | Location | SADB M-1 |
 | Q&A and Discussion Forum | Ed discussion (access through myCourses) |
-| Instructor Office Hour | Thursdays 9-10am (MC328)| 
+| Instructor Office Hour | Thursdays 9-10am |
  
  
 
-## TA Office Hours  (TR4130)
+## TA Office Hours  (TBD)
 | Day of the Week | Time | 
 | :---: | :---: |
-| Monday | 1-2 pm|
-| Wednesday | 3-4 pm|
-| Friday | 4-5 pm|
 
 
 ## Description
@@ -35,7 +32,7 @@ After completing this course successful students should be able to:
 
 ## Reference Material
 - **Required Textbook**: 
-  - [Introduction to Software Design with Java, 2nd edition (referred to as SD in the schedule)](https://link.springer.com/book/10.1007/978-3-030-97899-0). The electronic version of this book is **free** for McGill users with library access. For those who optionally want a print version, the [Paragraph Bookstore](http://paragraphbooks.com/) will stock a limited number of copies;
+  - [Introduction to Software Design with Java, Third edition (referred to as SD in the schedule)](https://link.springer.com/book/10.1007/978-3-032-11821-9). The electronic version of this book is **free** for McGill users with library access. For those who optionally want a print version, the [Paragraph Bookstore](http://paragraphbooks.com/) will stock a limited number of copies;
   - [Companion Website](https://github.com/prmr/DesignBook) for source code, exercises, and solutions.
   - [Casdoc Tool](https://cs.mcgill.ca/~martin/casdoc/). Chapter and solution code from the textbook companion website with extra in-line annotations of examples and explanations.
   
@@ -68,12 +65,12 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 
 - Accommodation 1 (exams): If the grade of the final exam exceeds that of the midterm, the grade of the final exam will replace the grade of the midterm. This accommodation covers the case where students are unable to write the midterm.
-- Accommodation 2 (labs): The grade of the lab tests will be the average of the grades of the best lab tests (with the one least performing lab test dropped). This accommodation covers the case where students are unable to complete a lab test.
+- Accommodation 2 (labs): The grade of the lab tests will be the average of the grades of the best lab tests with the one least performing lab test dropped. This accommodation covers the case where students are unable to complete a lab test.
 - Accommodation 3 (participation): Similar to the lab, one missing participation input will be dropped when calculating the participation grade. This accommodation covers the case where students are unable to attend the class.
 
 - Our TA will try their best to support your learning. But considering this is a big class – many of you will have similar questions or concerns and many of you have will answers to other people’s questions, we encourage you to discuss your questions about the lectures and exercises online;
-- Every module of the lecture will come with [exercises provided by the textbook](https://github.com/prmr/DesignBook). Those are for your practice and will not be graded. Instead, your practical skills will be evaluated through a series of design assignments and lab tests throughout the semester. 
-- The `lab tests` complement the exercises and will be in person. During each lab test, you will be asked to complete a series of tasks given by our TAs. You are responsible to book the slot of each lab test in advance with the TAs. 
+- Every module of the lecture will come with [exercises provided by the textbook](https://github.com/prmr/DesignBook). Those are for your practice and will not be graded. Instead, your practical skills will be evaluated through a series of design assignments and lab tests throughout the semester.
+- The `lab tests` complement the exercises and will be in person. During each lab test, you will be asked to complete a series of tasks given by our TAs. You are responsible to book the slot of each lab test in advance with the TAs.
 - Any form of plagiarism, cheating is strictly banned throughout the semester. Integrity is crucial to this course and your future career. Any violation against academic integrity will be taken very seriously. For more information, please refer [here](https://www.mcgill.ca/students/srr/academicrights/integrity).
 
 
@@ -82,45 +79,45 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 | Lecture | Date | Content | Reading | Exercise | 
 | :---: |:---:| :---: | :---: | :---: | 
-|1	|  4 Jan  | Introduction | SD: Chapter 1| [Exercise 0](m0.md)| 
-|2	|  9 Jan | Encapsulation - 1 | SD: Chapter 2 |  [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | 
-|3	|  11 Jan | Encapsulation - 2 | EJ: Item 15-17, [Tutorial on Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)  | [Exercise 6-9 in SD: Chapter 2 <br> (omit the exercise related to Design by Contract and Assertion which will be introduced later in the course)](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | 
-|4	|  16 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | [Exercise 1-2 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | 
-|5	|  18 Jan | Types and Polymorphism - 2 | EJ: Item 14 | [Exercise 3-6 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | 
-|6	|  23 Jan | No Class | | | 
-|7	|  25 Jan | Types and Polymorphism - 3 | | [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | 
-|8	|  30 Jan | Object State - 1 | SD: Chapter 4, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | | 
-|9	|  1 Feb | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | 
-|10	|  6 Feb  | Design for Robustness - 1 | PP: Topic 23, 24, 25|  | 
-|11  | 8 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | | 
-|12	| 13 Feb | Unit Testing - 1 | SD: Chapter 5  | 
-|13	|  15 Feb | Unit Testing - 2| SD: Chapter 5 | [Exercise 1-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) | 
-|14	|  20 Feb | Content Review | | | 
-|15	|  22 Feb | Composition - 1 | SD: Chapter 6 | | 
-|16	|  27 Feb | Composition - 2 | SD: Chapter 6 |[Exercise 1-5 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | 
-|17	|  29 Feb | Composition - 3 | SD: Chapter 6 | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | | 
+|1	|  6 Jan  | Introduction | SD: Chapter 1| [Exercise 0](m0.md)| 
+|2	|  8 Jan | Encapsulation - 1 | SD: Chapter 2 | | 
+|3	|  13 Jan | Encapsulation - 2 | EJ: Item 15-17, [Tutorial on Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)  | | 
+|4	|  15 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | | 
+|5	|  20 Jan | Types and Polymorphism - 2 | EJ: Item 14 | | 
+|6	|  22 Jan | Types and Polymorphism - 3 | | |  
+|7	|  27 Jan | Object State - 1 | SD: Chapter 4, EJ: Item 10, 11 | | | 
+|8	|  29 Jan | Object State - 2 | EJ: Item 1, 3 | | 
+|9	|  3 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25|  | 
+|10	|  5 Feb  | Design for Robustness - 2 | EJ: Item 69 - 72 | | 
+|11  | 10 Feb | Unit Testing - 1 | SD: Chapter 5  | 
+|12	| 12 Feb | Unit Testing - 2| SD: Chapter 5 | | 
+|13	|  17 Feb | Composition - 1 | SD: Chapter 6 | | 
+|14	|  19 Feb | Composition - 2 | SD: Chapter 6 | | 
+|15	|  24 Feb | Composition - 3 | SD: Chapter 6 | | | 
+|16	|  26 Feb | Content Review | |
+|**	|  3 Mar | READING WEEK | | | 
 |**	|  5 Mar | READING WEEK | | | 
-|**	|  7 Mar | READING WEEK | | | 
-|18	|  11 Mar (McConnell 204 and Adams Aud, 6-8:15pm) | Midterm  | | 
-|19	|  14 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) |  
-|20	|  19 Mar | Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | |   
-|21	|  21 Mar | Inversion of Control - 1 | SD: Chapter 8 | [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | | 
-|22	|  26 Mar | Inversion of Control - 2 | SD: Chapter 8 | [Exercise 9-11 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
-|23 |  28 Mar | Inversion of Control - 3 | SD: Chapter 8 | [Exercise 12-13 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)  | | 
-|24 |  2 Apr | Concurrency - 1 |[Java Concurrency in Practice Chapter 1,2,3](https://learning.oreilly.com/library/view/java-concurrency-in/0321349601/)| | 
-|25 |  4 Apr | Concurrency - 2 and Wrap Up | |
-|26 |  9 Apr | Content Review
+|17	|  10 Mar (Location: SABD 2/36, SABD M-1, SABD 1/12, and ENGTR 0100, Time: 6-8:15pm) | Midterm  | | 
+|18	|  12 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| |  
+|19	|  17 Mar | Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | | |
+|20	|  19 Mar | Inversion of Control - 1 | SD: Chapter 8 | | | 
+|21	|  24 Mar | Inversion of Control - 2 | SD: Chapter 8 | | | 
+|22 |  26 Mar | Inversion of Control - 3 | SD: Chapter 8 | | | 
+|23 |  31 Mar | TBD | | 
+|24 |  2 Apr | TBD | |
+|25 |  7 Apr | TBD | |
+|26 |  9 Apr | Content Review | |
 
 
 
-## Lab Test (TBD)
+## Lab Test (Tentative)
 
 | Test | Start Date | End Date | Scope | Note | 
 | :---: |:---:| :---: | :---: | :---: | 
-|Lab Test Mock Up| 15 Jan| 19 Jan | Warm Up||
-|Lab Test 1|22 Jan|2 Feb|Encapsulation||
-|Lab Test 2|12 Feb|23 Feb|Types and Polymorphism, Object State||
-|Lab Test 3|13 Mar|26 Mar|Design for Robustness, Unit Testing, Composition|
-|Lab Test 4|27 Mar|11 Apr|Inheritance, Inversion of Control|No lab test on Mar 29 and Apr 1|
+|Lab Test Mock Up| 14 Jan| 16 Jan | Warm Up||
+|Lab Test 1|19 Jan|30 Jan|Encapsulation||
+|Lab Test 2|9 Feb|20 Feb|Types and Polymorphism, Object State||
+|Lab Test 3|16 Mar|27 Mar|Design for Robustness, Unit Testing, Composition|
+|Lab Test 4|30 Mar|14 Apr|Inheritance, Inversion of Control|No lab test on 3 Apr and 6 Apr|
 
 
