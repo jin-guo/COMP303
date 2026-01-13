@@ -80,7 +80,7 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 | Lecture | Date | Content | Reading | Exercise | 
 | :---: |:---:| :---: | :---: | :---: | 
 |1	|  6 Jan  | Introduction | SD: Chapter 1| [Exercise 0](m0.md)| 
-|2	|  8 Jan | Encapsulation - 1 | SD: Chapter 2 | | 
+|2	|  8 Jan | Encapsulation - 1 | SD: Chapter 2 | [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | 
 |3	|  13 Jan | Encapsulation - 2 | EJ: Item 15-17, [Tutorial on Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)  | | 
 |4	|  15 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | | 
 |5	|  20 Jan | Types and Polymorphism - 2 | EJ: Item 14 | | 
