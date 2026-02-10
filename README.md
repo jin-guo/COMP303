@@ -89,10 +89,10 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |6	|  22 Jan | Types and Polymorphism - 3 | |[Exercise 7-11 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) |  
 |7	|  27 Jan | Object State - 1 | SD: Chapter 4 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)| | 
 |8	|  29 Jan | Object State - 2 | EJ: Item 1, 3, 10, 11 |[Exercise 6-9 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md) | 
-|9	|  3 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25|  | 
+|9	|  3 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25| | 
 |10	|  5 Feb  | Design for Robustness - 2 | EJ: Item 69 - 72 | | 
-|11  | 10 Feb | Unit Testing - 1 | SD: Chapter 5  | 
-|12	| 12 Feb | Unit Testing - 2| SD: Chapter 5 | | 
+|11  | 10 Feb | Unit Testing - 1 | SD: Chapter 5  | [Exercise 1-4,7 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) |
+|12	| 12 Feb | Unit Testing - 2| SD: Chapter 5 | [Exercise 5,6,8-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) |
 |13	|  17 Feb | Ethics (Guest Lecture) | | | 
 |14	|  19 Feb | Content Review | | | 
 |15	|  24 Feb | Composition - 1 | SD: Chapter 6 | | | 
