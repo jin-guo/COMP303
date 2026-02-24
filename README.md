@@ -95,12 +95,12 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |12	| 12 Feb | Unit Testing - 2| SD: Chapter 5 | [Exercise 5,6,8-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) |
 |13	|  17 Feb | Ethics (Guest Lecture) | | | 
 |14	|  19 Feb | Content Review | | | 
-|15	|  24 Feb | Composition - 1 | SD: Chapter 6 | | | 
-|16	|  26 Feb | Composition - 2 | SD: Chapter 6 | | |
+|15	|  24 Feb | Composition - 1 | SD: Chapter 6 | [Exercise 1-9 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md)| | 
+|16	|  26 Feb | Composition - 2 | SD: Chapter 6 | [Exercise 10-13 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md)| |
 |**	|  3 Mar | READING WEEK | | | 
 |**	|  5 Mar | READING WEEK | | | 
-|17	|  10 Mar (Location: SABD 2/36, SABD M-1, SABD 1/12, and ENGTR 0100, Time: 6-8:15pm) | Midterm  | | 
-|18	|  12 Mar | Composition - 3 | SD: Chapter 6 | | | 
+|17	|  10 Mar (Location: SABD 2/36, SABD M-1, and ENGTR 0100, Time: 6-8:15pm) | Midterm  | | 
+|18	|  12 Mar | Composition - 3 | SD: Chapter 6 | [Exercise 14-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md)| | 
 |19	|  17 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20 | | |
 |20	|  19 Mar | Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | | | 
 |21	|  24 Mar | Inversion of Control - 1 | SD: Chapter 8| | | 
