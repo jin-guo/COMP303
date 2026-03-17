@@ -101,8 +101,8 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |**	|  5 Mar | READING WEEK | | | 
 |17	|  10 Mar (Location: SABD 2/36, SABD M-1, and ENGTR 0100, Time: 6-8:15pm) | Midterm  | | 
 |18	|  12 Mar | Composition - 3 | SD: Chapter 6 | [Exercise 14-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md)| | 
-|19	|  17 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20 | | |
-|20	|  19 Mar | Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | | | 
+|19	|  17 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20 | [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md)| |
+|20	|  19 Mar | Inheritance - 2  | SD: Chapter 7, EJ:Item 18 | [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md)| | 
 |21	|  24 Mar | Inversion of Control - 1 | SD: Chapter 8| | | 
 |22 |  26 Mar | Inversion of Control - 2 | SD: Chapter 8 | | | 
 |23 |  31 Mar | Inversion of Control - 3 | SD: Chapter 8 | | 
